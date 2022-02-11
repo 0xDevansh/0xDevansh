@@ -1,7 +1,4 @@
 <p align="center"> 
-    <img src="./AvatarRound.png" alt="My beautiful online avatar">
-</p>
-<p align="center"> 
  <a href="https://www.deathvenom.me" target="_blank">
    <img src="https://img.shields.io/badge/check%20out-my%20website-red?style=for-the-badge" alt="my website">
  </a>
