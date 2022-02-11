@@ -1,10 +1,13 @@
 <p align="center"> 
  <a href="https://www.deathvenom.me" target="_blank">
-   <img src="https://img.shields.io/badge/check%20out-my%20website-red?style=for-the-badge" alt="my website">
+   <img src="https://img.shields.io/badge/website-lightgrey?style=for-the-badge&color=368be0" alt="my website">
  </a>
 
  <a href="https://discord.com/invite/qJnrRvt7wW" target="_blank">
-   <img src="https://img.shields.io/badge/chat%20on-discord-blue?style=for-the-badge&color=5865F2" alt="discord server">
+   <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&color=5865F2&logo=discord&logoColor=white" alt="discord server">
+ </a>
+  <a href="https://twitter.com/dv_makes_stuff" target="_blank">
+   <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="discord server">
  </a>
 </p>
 
