@@ -1,3 +1,7 @@
+<p aligh="center">
+ <img src="https://github.com/DeathVenom54/DeathVenom54/blob/main/github-header-image.png?raw=true" alt="banner"> 
+</p>
+
 <p align="center"> 
  <a href="https://www.deathvenom.me" target="_blank">
    <img src="https://img.shields.io/badge/website-lightgrey?style=for-the-badge&color=368be0" alt="my website">
