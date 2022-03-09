@@ -10,15 +10,6 @@
    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="discord server">
  </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deathvenom54&style=flat-square&color=blue" alt=""/>
-</p>
-
-## Hello there 👋 I'm Deathvenom
-
-- 🔭 I’m currently working on 🤫 a secret project
-- 📫 How to reach me: Flick across a DM on Discord: Deathvenom#5447 or email me: fdragon602@gmail.com
-- 😄 Pronouns: he/him
 
 ---
 
@@ -35,7 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original-wordmark.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="Webstorm" alt="Webstorm" width="40" height="40"/>&nbsp;
 </div>
 
 ---
