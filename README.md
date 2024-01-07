@@ -2,7 +2,7 @@
 
 - Student based in India
 - Interested in tinkering with new technologies
-- Currently working on [Readit](https://github.com/DeathVenom54/readit)
+- Currently inactive (preparing for JEE)
 
 <p align="center"> 
  <a href="https://discord.com/invite/qJnrRvt7wW" target="_blank">
