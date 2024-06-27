@@ -2,7 +2,7 @@
 
 ## Areas of interest
 - Rust
-- Artificial Intelligence
+- ~~Artificial Intelligence~~ This is some complex stuff!
 - Simple tools that automate your life
 
 ## Stuff I've dabbled in
